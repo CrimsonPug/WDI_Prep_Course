@@ -1,0 +1,22 @@
+h1 {
+    font-size: 48px;
+}
+
+li {
+    font-size: 32px;
+    color: Darkgray;
+   
+}
+
+.navy-and-crossed {
+    text-decoration: line-through;
+    color: navy;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bold-and-crossed{
+    text-decoration: line-through;
+}
