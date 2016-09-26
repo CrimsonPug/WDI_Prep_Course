@@ -5,17 +5,17 @@
 console.log('Loop is done!'); */
 
 //Exercise 2
-
+/*
 for (var j="#"; j<8;j++){
     console.log(j);
 }
-console.log('Done');
+console.log('Done'); */
 
 //Exercise 3
 
 for (var k="0"; k<101;k++){
     console.log(k);
-}
+
 if (k%5 == 0) {
     console.log("fizz");
 }
@@ -25,4 +25,8 @@ else if (k%3 == 0 ){
 else if (k%15 == 0){
     console.log("fizzbuzz");
 }
+
+}
 console.log("Siap");
+
+//Exercise 4
