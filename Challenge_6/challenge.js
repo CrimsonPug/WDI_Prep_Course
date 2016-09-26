@@ -33,11 +33,11 @@ Use the console.log() function and the array .pop() to add all the values in the
 
 var sum = numbers.sum();
 
-while(numbers.length != 0){
+/* while(numbers.length != 0){
     var lastnumber =numbers.pop();
-}
+} */
 
-console.log(sum);
+console.log(sum); 
 
 
 /*
